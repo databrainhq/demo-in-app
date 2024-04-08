@@ -10,9 +10,9 @@ demo-in-app> npm install
 
 ### Scripts
 
-- `to run the app:` npm run dev
-- `to build the app:` npm run build
+- `start demo-in-app:` npm run dev
+- `build demo-in-app:` npm run build
 
 ### other info
 
-This repo invludes dbn-dashboard component from @databrainhq/plugin so if you need latest changes, update the plugin.
+This repo includes dbn-dashboard component from @databrainhq/plugin, so you need to update the plugin version to see latest changes.
